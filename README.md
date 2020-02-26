@@ -11,12 +11,17 @@ Architecture Overview
 <br><br>
 Results on KITTI
 <img src='img/kitti.png' width=666>
+<br><br>
 <img src="img/vkitti.jpg" width=666/>
+<br><br>
 <img src="img/vkitti-seg.jpg" width=666/>
 <br><br>
+
 Results on CMU Seasons
 <img src="img/cmu.jpg" width=666/>
 <br><br>
 Image Retrieval on Extended CMU Seasons: [Results](https://www.visuallocalization.net/details/3479/)
 <img src="img/cmu_query.jpg" width=666/>
+<br><br>
 <img src="img/bar.png" width=666/>
+<br><br>
